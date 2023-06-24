@@ -1,0 +1,6 @@
+site_name: Jack's Wood
+site_url: https://bing.com/
+nav:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
